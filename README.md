@@ -23,7 +23,7 @@ Repository available [HERE](https://github.com/nicoarchi/citython-bcn)
 This project was created by N. Architector, M. Boner, P. Reynel, O. Sönmez & A. de Oliveira during the Citython Barcelona 2018.
 Web by: N. Architector.
 
-Credits:
+### Credits:
 
     Icons:
     	Font Awesome (fontawesome.io)
